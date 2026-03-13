@@ -1,4 +1,4 @@
-# Experiment 201: Process Creation using fork() in QNX
+<img width="1438" height="326" alt="image" src="https://github.com/user-attachments/assets/f66d0789-a341-48d4-a97a-7688d62e6067" /># Experiment 201: Process Creation using fork() in QNX
 
 ## Aim
 
@@ -126,6 +126,8 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 
 # Output
 <img width="1438" height="323" alt="image" src="https://github.com/user-attachments/assets/ac0773b2-735b-456b-8475-3cddd60bd4b8" />
+
+
 
 ---
 
