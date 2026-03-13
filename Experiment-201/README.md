@@ -1,5 +1,3 @@
-<img width="1438" height="326" alt="image" src="https://github.com/user-attachments/assets/f66d0789-a341-48d4-a97a-7688d62e6067" /># Experiment 201: Process Creation using fork() in QNX
-
 ## Aim
 
 Write a program to implement **process creation using fork() in QNX/Linux** and observe the behavior of **parent and child processes** when the parent terminates.
