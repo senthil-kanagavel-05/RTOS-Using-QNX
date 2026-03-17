@@ -248,6 +248,7 @@ MsgSend return status: 0
 ---
 
 # Output
+<img width="1437" height="281" alt="Screenshot 2026-03-13 113031" src="https://github.com/user-attachments/assets/c13279d1-3d34-40f6-93b4-370980cab2c9" />
 
 ---
 
